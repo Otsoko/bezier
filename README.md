@@ -48,3 +48,20 @@ for (int i = 0; i < numberOfPoints; i++) {
     System.out.println(calculated.toString());
 }
 ```
+
+## To add this library to your project ##
+Add it in your root build.gradle at the end of repositories:
+```
+allprojects {
+    repositories {
+        ...
+        maven { url 'https://jitpack.io' }
+    }
+}
+```
+Add the dependency:
+```
+dependencies {
+        compile 'com.github.Otsoko:bezier:v1.0.0'
+}
+```
