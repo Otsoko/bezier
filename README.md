@@ -51,7 +51,7 @@ for (int i = 0; i < numberOfPoints; i++) {
 
 ## To add this library to your project ##
 Add it in your root build.gradle at the end of repositories:
-```
+```gradle
 allprojects {
     repositories {
         ...
@@ -60,7 +60,7 @@ allprojects {
 }
 ```
 Add the dependency:
-```
+```gradle
 dependencies {
         compile 'com.github.Otsoko:bezier:v1.0.0'
 }
