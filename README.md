@@ -64,3 +64,6 @@ dependencies {
         implementation 'com.github.Otsoko:bezier:v1.0.0'
 }
 ```
+
+## I just need a jar file ##
+You can find a jar file containing the latest release [here](https://github.com/Otsoko/bezier/releases/download/v1.0.0/bezier-1.0.0.jar).
