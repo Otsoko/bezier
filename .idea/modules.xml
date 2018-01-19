@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bezier.iml" filepath="$PROJECT_DIR$/.idea/modules/bezier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bezier_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bezier_main.iml" group="bezier" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bezier_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bezier_test.iml" group="bezier" />
+    </modules>
+  </component>
+</project>
